@@ -1,0 +1,13 @@
+# Fertige Builds (DLL) und Build-Ordner
+dist/
+build/
+_build/
+out/
+.vs/
+*.dll
+*.pdb
+*.lib
+*.exp
+*.dmp
+*.log
+.claude/
